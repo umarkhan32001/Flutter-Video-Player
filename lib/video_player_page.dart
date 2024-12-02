@@ -1,3 +1,4 @@
+//This project is made by Muhammad Umar Khan (1911), Wijidan Sheikh (1933), Saad Hassan (1934)
 import 'package:appinio_video_player/appinio_video_player.dart';
 import 'package:flutter/material.dart';
 
